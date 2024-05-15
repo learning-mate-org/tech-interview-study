@@ -23,6 +23,6 @@ Tech Interview 스터디 시작 [![Since](https://img.shields.io/badge/since-202
 
 ## 멤버
 
-|[![](https://github.com/wjdwnsdnjs13.png?width=200px)](https://github.com/wjdwnsdnjs13)|[![](https://github.com/RTUnu12.png?width=200px)](https://github.com/RTUnu12) |[![](https://github.com/Sonwon112.png?width=200px)](https://github.com/Sonwon112)|
+|[<img src="https://github.com/wjdwnsdnjs13.png" width="200px" height="250px">](https://github.com/wjdwnsdnjs13)|[<img src="https://github.com/RTUnu12.png" width="200px" height="250px">](https://github.com/RTUnu12) |[<img src="https://github.com/Sonwon112.png" width="200px" height="250px">](https://github.com/Sonwon112)|
 |:---:|:---:|:---:|
 | 준원 | 태웅 | 원일 |
